@@ -1,0 +1,15 @@
+# Ignore output directory
+output/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment variable files
+.env
+
+# Ignore uv files
+*.lock
